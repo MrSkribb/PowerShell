@@ -20,9 +20,9 @@ See more in the CLoud-Shell Directory
 This script's purpose is to centralise, streamline and automate various active directory functions and tasks. Allowing the user to see critical information for problematic user accounts in one place and action issues if required with a simple command
 
 Features consist of the following:
+- Simple and effective menu system
 - Displays locked accounts
 - Prompts to unlock the locked accounts
 - Displays disabled accounts
 - Displays accounts with expired logins
-- Displays accounts with logins that will expire in 7 Days
-- Displays failed login attempts for 24 hours 
+- Lookup user feature - Displays information about a user via net user
